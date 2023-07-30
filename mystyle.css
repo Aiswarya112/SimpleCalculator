@@ -1,0 +1,27 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+button
+{
+    width:200px;
+    height:100px;
+    background-color: green;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    border:none;
+}
+.borderless td{
+    border:none;
+}
+table td{
+    font-size: 30px;
+}
+.button-hover:hover{
+    background-color: grey;
+    opacity: 0.95;
+    color: black;
+
+}
